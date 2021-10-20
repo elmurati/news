@@ -23,9 +23,14 @@
     "url": "https://github.com/elmurati/news/issues"
   },
   "homepage": "https://github.com/elmurati/news#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ramda": "^0.27.1"
+  },
   "devDependencies": {
     "@types/chai": "^4.2.21",
     "@types/mocha": "^8.2.3",
+    "@types/ramda": "^0.27.44",
     "@typescript-eslint/eslint-plugin": "^4.28.2",
     "@typescript-eslint/parser": "^4.28.2",
     "chai": "^4.3.4",
