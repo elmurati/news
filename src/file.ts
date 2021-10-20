@@ -1,5 +1,5 @@
 export function print(): string {
-  const branch = "feature"
+  const branch = "feature0"
 
   return branch
 }
